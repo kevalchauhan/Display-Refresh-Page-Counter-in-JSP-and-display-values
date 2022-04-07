@@ -1,0 +1,17 @@
+SMAP
+bindemo_jsp.java
+JSP
+*S JSP
+*F
++ 0 bindemo.jsp
+bindemo.jsp
+*L
+5,10:44
+15:54,23
+15:67
+16,2:68,3
+18:74
+18,2:77
+20,2:79,3
+22,4:85
+*E
